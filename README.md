@@ -19,3 +19,7 @@ https://github.com/sarwarbeing-ai/Agentic_Design_Patterns/blob/main/Agentic_Desi
 1. 一站式LLM底层技术原理入门指南（飞书文档）
 2. 动手学深度学习（开源，李沐有配套的讲解视频）
 3. 深度学习中的数学（简单介绍概率论）
+
+
+
+https://ppt-reveal-magic.lovable.app/
